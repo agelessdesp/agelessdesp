@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Anastasia Sokolova 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
 About me:
@@ -7,7 +8,7 @@ About me:
 - :seedling: Finished Yandex Practicum (Data Science) and currently learning DL and SQL on Stepik
 - :trophy: Ex channel manager at Avaya
 - :rocket: My telegram - @desprej
-- :incoming_envelope: E-mail: agelessdesp@yandex.ru
+- :incoming_envelope: E-mail: ana.sok0701@gmail.com
 
 ### Connect with me:
 

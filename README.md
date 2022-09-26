@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-About me:
+### About me:
 
 - :mag: I’m currently looking for a job #analysist #datascientist 
 - :seedling: Finished Yandex Practicum (Data Science) and currently learning DL and SQL on Stepik

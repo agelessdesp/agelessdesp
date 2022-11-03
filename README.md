@@ -4,7 +4,6 @@
 
 ### About me:
 
-- :mag: I’m currently looking for a job #analysist #datascientist 
 - :seedling: Finished Yandex Practicum (Data Science) and currently learning DL and SQL on Stepik
 - :trophy: Ex channel manager at Avaya
 - :incoming_envelope: E-mail: ana.sok0701@gmail.com
